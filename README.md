@@ -1,46 +1,33 @@
 # 👋 Hi, I'm Mateusz Kerlin
 
-Web developer and founder of **[Apex Studio](https://apexstudio.se)** — a web design studio building fast, modern websites for construction and service companies in Sweden.
+Web developer, builder, and founder of **[Apex Studio](https://apexstudio.se)** — a digital agency building fast, modern websites for construction and service companies in Sweden.
 
-## 🏗️ What I Do
+## 🏗️ My Projects
 
-I specialize in creating performance-optimized, SEO-friendly websites for small businesses. My current focus is building a network of specialized service websites for the construction industry in the Stockholm/Nynäshamn region.
+### Construction & Building Services
+- **[Totalbygg Nynäshamn](https://totalbyggarna.se)** — Professional construction and renovation services in Nynäshamn
+- **[Snabbgrund.se](https://snabbgrund.se)** — Foundation and concrete work in Stockholm region
+- **[Staketmästaren](https://staketmastaren.se)** — Fence and railing installation in Stockholm
 
-## 🌐 Our Projects
+### Digital Products
+- **[ByggLog.se](https://bygglog.se)** — Project management platform for the construction industry
+- **[Apex Studio](https://apexstudio.se)** — Web development and SEO agency
 
-| Project | Description |
-|---------|-------------|
-| [apexstudio.se](https://apexstudio.se) | 🎨 Web design & development studio |
-| [totalbyggarna.se](https://totalbyggarna.se) | 🏠 General construction & renovation |
-| [hemstadning-nynashamn.se](https://hemstadning-nynashamn.se) | 🧹 Professional cleaning services |
-| [staketmastaren.se](https://staketmastaren.se) | 🪵 Fence building & installation |
-| [snabbgrund.se](https://snabbgrund.se) | ⛏️ Foundation & ground work |
-| [sonochfar.se](https://sonochfar.se) | 🎨 Interior painting & design |
-| [bygglog.se](https://bygglog.se) | 📋 Construction project documentation |
+### Cleaning & Home Services
+- **[Hemstädning Nynäshamn](https://hemstadning-nynashamn.se)** — Professional cleaning services with RUT deduction
+
+### Food & Restaurant
+- **[Son och Far](https://sonochfar.se)** — Authentic Polish cuisine in Stockholm
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript
-- **Backend:** Node.js, Express.js
-- **Hosting:** Railway, Cloudflare
-- **Focus:** Performance, Local SEO, Mobile-first design
+- **Frontend:** Astro, Next.js, React, TypeScript
+- **Backend:** Node.js, Express, PostgreSQL
+- **SEO:** Technical SEO, content strategy, link building
+- **Infra:** Railway, Netlify, Cloudflare
 
-## 📊 Our Approach
+## 📫 Contact
 
-Every website we build at [Apex Studio](https://apexstudio.se) follows these principles:
-
-- ⚡ Sub-second page loads
-- 📱 Mobile-first responsive design
-- 🔍 Schema.org structured data for local SEO
-- 🌍 Cloudflare CDN for global performance
-- ♿ Accessible and standards-compliant
-
-## 📫 Get in Touch
-
-- 🌐 Website: [apexstudio.se](https://apexstudio.se)
-- 📧 Email: totalbyggarna@gmail.com
-- 📍 Location: Stockholm/Nynäshamn, Sweden
-
----
-
-*Building the web, one site at a time.* 🚀
+- 📧 totalbyggarna@gmail.com
+- 🌐 [apexstudio.se](https://apexstudio.se)
+- 📱 +46 769 20 22 76
